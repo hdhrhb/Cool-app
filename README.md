@@ -53,5 +53,16 @@ export default tseslint.config({
 });
 ```
 
-$ npm create vite@latest ./
-$ npm create amplify@latest
+# プロジェクトの作成手順
+
+```bash
+# Viteプロジェクトの作成
+npm create vite@latest ./
+
+# Amplifyの初期化
+npm create amplify@latest
+```
+
+```
+
+```
